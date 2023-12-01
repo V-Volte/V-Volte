@@ -14,10 +14,10 @@ Here is my profile at a glance:
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=v-volte&theme=transparent&exclude_repo=https://github.com/V-Volte/Mazesolver" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=v-volte&theme=transparent&exclude_repo=https://github.com/V-Volte/Mazesolver" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-volte&layout=compact&theme=transparent&exclude_repo=Mazesolver&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-volte&layout=compact&theme=transparent&exclude_repo=Mazesolver&card_width=320" />
 </a>
 </div>
 
@@ -99,6 +99,7 @@ Here is my profile at a glance:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidrmiller&repo=biosim4&show_owner=true&theme=dark)](https://github.com/davidrmiller/biosim4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PWhiddy&repo=PokemonRedExperiments&show_owner=true&theme=dark)](https://github.com/PWhiddy/PokemonRedExperiments)
 
+
 </div>
 
-### Have a nice day!
+Have a nice day!
